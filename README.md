@@ -13,15 +13,14 @@
 
 - 🤝 I’m looking for help with **AIML+IOT**
 
-- 👨‍💻 All of my projects are available at [working on it](working on it)
+- 👨‍💻 All of my projects are available at [working on it]
 
-- 📝 I regularly write articles on [working on it](working on it)
-
+- 📝 I regularly write articles on [working on it]
 - 💬 Ask me about **let Gossip on your day**
 
 - 📫 How to reach me **vedantsingh876@gmail.com**
 
-- 📄 Know about my experiences [working on it](working on it)
+- 📄 Know about my experiences [working on it]
 
 - ⚡ Fun fact **I think I am emotionally available**
 
