@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tork25" alt="tork25" /></a> </p>
 
-- 🔭 I’m currently working on **AI voice assistant**
+- 🔭 I’m currently working on myBODY 🐱‍👤
 
 - 🌱 I’m currently learning **AIML**
 
@@ -13,14 +13,14 @@
 
 - 🤝 I’m looking for help with **AIML+IOT**
 
-- 👨‍💻 All of my projects are available at [working on it]
+- 👨‍💻 All of my projects are available in my PC
 
-- 📝 I regularly write articles on [working on it]
-- 💬 Ask me about **let Gossip on your day**
+- 📝 I regularly write articles on myslef
+- 💬 Ask me?no **let Gossip about your day**
 
 - 📫 How to reach me **vedantsingh876@gmail.com**
 
-- 📄 Know about my experiences [working on it]
+- 📄 Know about my experiences-Why you investigating me --_--
 
 - ⚡ Fun fact **I think I am emotionally available**
 
