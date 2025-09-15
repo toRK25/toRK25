@@ -26,8 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vedant-singh-9a02942b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vedant-singh-9a02942b0/" height="30" width="40" /></a>
-<a href="https://kaggle.com/vedant@tork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vedant@tork" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vedant-singh-9a02942b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vedant-singh-9a02942b0/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/vedanttork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vedant@tork" height="30" width="40" /></a>
 <a href="https://instagram.com/not.vedant_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not.vedant_24" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/3ZpUTJCmZ3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/3ZpUTJCmZ3" height="30" width="40" /></a>
 </p>
